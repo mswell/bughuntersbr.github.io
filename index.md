@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Bug Hunters Brasil
 
-You can use the [editor on GitHub](https://github.com/bughuntersbr/bughuntersbr/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Uma comunidade brasileira de bug bounty hunters, para discussão sobre programas de [bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) e compartilhamento de ideias, textos, palestras, ferramentas, e quaisquer outros recursos relacionados ao tema.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Telegram
 
-### Markdown
+Entre no grupo [Bug Hunters Brasil](https://t.me/joinchat/B2pR7grZ8So-QCM0INAlbg).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Materiais
 
-```markdown
-Syntax highlighted code block
+Compilação com os melhores materiais disponíveis na Internet sobre bug bounty hunting.
 
-# Header 1
-## Header 2
-### Header 3
+#### Palestras
+- How To Shot Web - Jason Haddix's talk from DEFCON23  
+[https://www.youtube.com/watch?v=VtFuAH19Qz0](https://www.youtube.com/watch?v=VtFuAH19Qz0)
 
-- Bulleted
-- List
+- Bug Bounty Hunting Methodology v2 - Jason Haddix from Bugcrowd's LevelUp 2017  
+[https://www.youtube.com/watch?v=C4ZHAdI8o1w](https://www.youtube.com/watch?v=C4ZHAdI8o1w)
 
-1. Numbered
-2. List
+- Ekoparty 2017 - The Bug Hunter's Methodology  
+[https://slideshare.net/bugcrowd/ekoparty-2017-the-bug-hunters-methodology](https://slideshare.net/bugcrowd/ekoparty-2017-the-bug-hunters-methodology)
 
-**Bold** and _Italic_ and `Code` text
+#### Listas
 
-[Link](url) and ![Image](src)
-```
+- SecLists  
+[https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Outros
 
-### Jekyll Themes
+- Talk is cheap. Show me the money! - Maycon Vitali  
+[http://maycon.hacknroll.io/bug-bounty/2018/01/22/talk-is-cheap-show-me-the-money.html](http://maycon.hacknroll.io/bug-bounty/2018/01/22/talk-is-cheap-show-me-the-money.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bughuntersbr/bughuntersbr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contribuir
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Esta página está hospedada no GitHub Pages. Se desejar incluir um material ou propor qualquer outra modificação, basta abrir um [issue](https://github.com/bughuntersbr/bughuntersbr/issues) ou um [pull request](https://github.com/bughuntersbr/bughuntersbr/pulls).
