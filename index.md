@@ -15,3 +15,4 @@ Compilação dos melhores materiais disponíveis na Internet sobre bug bounty hu
 - [Plataformas](plataformas/)
 - [Listas](listas/)
 - [Textos](textos/)
+- [Outros](outros/)
