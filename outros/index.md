@@ -5,4 +5,21 @@
   HackerOne e programas do Bugcrowd.  
   [https://t.me/bug_bounty_channel](https://t.me/bug_bounty_channel)
 
+- **Inside the Mind of a Hacker 2.0 (2017)**
+  Relatório da Bugcrowd abordando as características e motivações dos bug
+  bounty hunters.  
+  [https://www.bugcrowd.com/resource/inside-the-mind-of-a-hacker-2017/](https://www.bugcrowd.com/resource/inside-the-mind-of-a-hacker-2017/)
+
+- **CVE Details**
+  Motor de busca para localizar vulnerabilidades.  
+  [https://www.cvedetails.com/vulnerability-search.php](https://www.cvedetails.com/vulnerability-search.php)
+
+- **Exploit Database**
+  Arquivo de exploits, shellcode e papers.  
+  [https://www.exploit-db.com/](https://www.exploit-db.com/)
+
+- **/r/xss**
+  Discussão sobre vulnerabilidades XSS.  
+  [https://www.reddit.com/r/xss/](https://www.reddit.com/r/xss/)
+
 [Voltar](../)
