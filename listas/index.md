@@ -11,7 +11,7 @@
   conhecidas.  
   [https://firebounty.com/](https://firebounty.com/)
 
-- **OSINT Framework**
+- **OSINT Framework**  
   Lista de fontes e ferramentas destinados à coleta de informações a partir de
   fontes públicas.  
   [http://osintframework.com/](http://osintframework.com/)
