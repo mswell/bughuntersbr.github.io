@@ -14,14 +14,13 @@ palestras e ferramentas.
 
 ### Materiais
 
-Compilação dos melhores materiais disponíveis na Internet sobre bug bounty
-hunting.
+Compilação dos melhores materiais relacionados a bug bounty hunting
+disponíveis na Internet.
 
-- [Cursos](cursos/)
 - [Guias](guias/)
+- [Cursos](cursos/)
 - [Palestras](palestras/)
 - [Plataformas](plataformas/)
-- [Textos](textos/)
 - [Ferramentas](ferramentas/)
-- [Listas](listas/)
+- [Textos](textos/)
 - [Outros](outros/)

@@ -19,6 +19,11 @@
   Identifica tecnologias conhecidas utilizadas na construção de um site.  
   [https://builtwith.com](https://builtwith.com)
 
+- **dnsall**  
+  Dicionário para descoberta de subdomínios. Útil para uso com a
+  [ferramenta](../ferramentas/) massdns.  
+  [https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056)
+
 - **gobuster**  
   Ferramenta para descoberta de arquivos, diretórios e subdomínios escrita em
   Go.  
@@ -36,6 +41,11 @@
   Conhecida ferramenta para descoberta de redes e auditorias de segurança.  
   [https://github.com/anshumanbh/brutesubs](https://nmap.org/)
 
+- **OSINT Framework**  
+  Lista de fontes e ferramentas destinados à coleta de informações a partir de
+  fontes públicas.  
+  [http://osintframework.com/](http://osintframework.com/)
+
 - **parameth**  
   Identifica parâmetros GET e POST via bruteforce.  
   [https://github.com/maK-/parameth](https://github.com/maK-/parameth)
@@ -43,6 +53,10 @@
 - **recon-ng**  
   Framework para reconhecimento desenvolvido em Python.  
   [https://bitbucket.org/LaNMaSteR53/recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng)
+
+- **SecLists**  
+  Uma coleção de listas de vários tipos para testes de segurança.  
+  [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 
 - **Sublist3r**  
   Enumera subdomínios.  

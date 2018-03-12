@@ -13,6 +13,12 @@
   Arquivo de exploits, shellcode e papers.  
   [https://www.exploit-db.com/](https://www.exploit-db.com/)
 
+- **FireBounty**  
+  Reúne informações sobre diversos programas de bug bounty, inclusive aqueles
+  que não estão hospedados em nenhuma das [plataformas](./plataformas/) mais
+  conhecidas.  
+  [https://firebounty.com/](https://firebounty.com/)
+
 - **Inside the Mind of a Hacker 2.0 (2017)**  
   Relatório da Bugcrowd abordando as características e motivações dos bug
   bounty hunters.  
