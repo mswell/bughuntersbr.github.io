@@ -28,4 +28,8 @@
   Discussão sobre vulnerabilidades XSS.  
   [https://www.reddit.com/r/xss/](https://www.reddit.com/r/xss/)
 
+- **The Bug Bounty Hunter**  
+  Canal do Telegram com conteúdo sobre bug bounty hunting.  
+  [https://t.me/thebugbountyhunter](https://t.me/thebugbountyhunter)
+
 [Voltar](../)
