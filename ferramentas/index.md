@@ -19,6 +19,10 @@
   Identifica tecnologias conhecidas utilizadas na construção de um site.  
   [https://builtwith.com](https://builtwith.com)
 
+- **dirsearch**  
+  Popular ferramenta para descoberta de arquivos e diretórios.  
+  [https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+
 - **dnsall**  
   Dicionário para descoberta de subdomínios. Útil para uso com a
   [ferramenta](../ferramentas/) massdns.  
@@ -78,6 +82,11 @@
   Um scanner de vulnerabilidades escrito em Python para blogs e sites baseados
   nos sistemas de gerenciamento de conteúdo (CMS) mais populares.  
   [https://github.com/Dionach/CMSmap](https://github.com/Dionach/CMSmap)
+
+- **OWASP ZAP (Zed Attack Proxy)**  
+  Ferramenta para testes de segurança em aplicações web. Frequentemente usada
+  como alternativa ao Burp Suite.  
+  [https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
 - **WPScan**  
   Um scanner de vulnerabilidades para blogs e sites baseados em WordPress.  
