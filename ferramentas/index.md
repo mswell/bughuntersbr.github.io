@@ -50,8 +50,8 @@
   fontes públicas.  
   [http://osintframework.com/](http://osintframework.com/)
   
-- **OWASP Amass**
-  Ferramenta de enumeração de subdomínios escrita em Go.
+- **OWASP Amass**  
+  Ferramenta de enumeração de subdomínios escrita em Go.  
   [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
 
 - **parameth**  
