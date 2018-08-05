@@ -28,6 +28,10 @@
   [ferramenta](../ferramentas/) massdns.  
   [https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056)
 
+- **FindSubDomains**  
+  Ferramenta online de enumeração de subudomínios.  
+  [https://findsubdomains.com/](https://findsubdomains.com/)
+
 - **gobuster**  
   Ferramenta para descoberta de arquivos, diretórios e subdomínios escrita em
   Go.  
