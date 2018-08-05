@@ -49,6 +49,10 @@
   Lista de fontes e ferramentas destinados à coleta de informações a partir de
   fontes públicas.  
   [http://osintframework.com/](http://osintframework.com/)
+  
+- **OWASP Amass**
+  Ferramenta de enumeração de subdomínios escrita em Go.
+  [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
 
 - **parameth**  
   Identifica parâmetros GET e POST via bruteforce.  
