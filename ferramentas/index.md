@@ -4,7 +4,7 @@
 
 - **altdns**  
   Gera listas de novos subdomínios a partir de permutações, alterações e
-  mutações dos já conhecidos, úteis para uso com o massdns. 
+  mutações dos já conhecidos, úteis para uso com o massdns.  
   [https://github.com/infosec-au/altdns](https://github.com/infosec-au/altdns)
 
 - **AQUATONE**  
